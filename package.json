@@ -1,0 +1,20 @@
+{
+  "name": "azxsgxs",
+  "version": "0.0.1",
+  "description": "azxsdfzsx.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "socket.io-client": "^4.7.4",
+    "eris": "^0.17.1",
+    "pretty-ms": "*",
+    "random-token": "^0.0.5",
+    "node-fetch": "^2.6.2",
+    "express": "^5.2.1"
+  },
+  "license": "MIT",
+  "keywords": []
+}
